@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  background-color: #f8f9fa;
+}
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh; /* Tambahkan ini */
+}
+
+
+.container {
+  padding: 2px;
+}
