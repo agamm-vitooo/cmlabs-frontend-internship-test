@@ -93,7 +93,7 @@ const MealDetailPage = () => {
         {meal.strYoutube && (
           <div className="col-span-1 md:col-span-5 flex justify-center mt-6">
             <div className="w-full max-w-2xl">
-              <h2 className="text-xl font-semibold text-gray-800 mb-4 text-center">
+              <h2 className="text-xl font-semibold text-gray-800 mb-5 text-center">
                 Video Tutorial
               </h2>
               <div className="relative" style={{ paddingTop: '56.25%' }}>
